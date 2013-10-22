@@ -33,6 +33,7 @@ body {
   padding: 60px 15px 0;
 }
 .container .credit {
+  text-align: right;
   margin: 20px 0;
 }
 
